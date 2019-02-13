@@ -1,0 +1,12 @@
+# Folder
+Debug
+x64
+__pycache__
+# Eigen lib
+ext_includes
+
+# Files
+*.vcxproj
+*.filters
+*.user
+*.txt
